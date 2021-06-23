@@ -1,0 +1,146 @@
+*{
+   margin: 0;
+   padding: 0;
+   
+}
+
+.head{
+   background:green;
+   position: fixed;
+  right: 0;
+  left: 0;
+   
+   
+   font-size: 20px;
+   height: 40px;
+   padding-top: 20px;
+   
+   
+   text-align: center;
+   border: 2px solid black;
+   color:White;
+   border-radius:0px;
+   z-index: 31;
+   
+   margin-top: 0px;
+   
+   
+   
+   
+}
+.foot{
+   background: green;
+   font-size: 10px;
+   height: 40px;
+   text-align: center;
+   border: 2px solid black;
+   color: white;
+   text-transform: capitalize;
+   
+   
+   
+   
+
+   
+   
+}
+body{
+   margin: 0px 2px 2px 2px;
+   
+}
+.black{
+   height:5px;
+   background: black;
+   border: 2px solid black;
+   
+   border-radius: 70%;
+   margin-top: 19px;
+   
+   
+}
+.lang{
+   display: inline-block;
+   height:100px;
+   width: 40%;
+   background: darkorange;
+   border:2px solid darkorange;
+   border-radius: 10%;
+   margin: 10px;
+   color: white;
+   padding-top: 50px;
+   text-align: center;
+   margin-top: 40px;
+   
+   
+   
+}
+.lang2{
+   display: inline-block;
+   
+  
+   height: 100px;
+   width: 40%;
+   background: deepskyblue;
+   border: 2px deepskyblue;
+   border-radius:10% ;
+   margin: 10px;
+   text-align: center;
+   padding-top: 50px;
+   color: white;
+   margin-top: 20px;
+   
+}
+.h2{
+   text-transform: capitalize;
+   
+   background: black;
+   color:white;
+   justify-content: center;
+   text-align: center;
+   border: 2px solid black;
+   border-radius: 90px;
+   margin-top: 60px
+   
+}
+.about{
+   height:20px;
+   text-align:center;
+   
+   margin: auto;
+   background: black;
+   color: white;
+   border: 2px solid black;
+   border-radius: 50%;
+   
+   
+   
+  
+}
+.follow_ig{
+   text-align: center;
+   margin: auto;
+  
+}
+#insta{
+   background: green;
+   color: white;
+   margin: 0px 40px 0px 40px;
+   border: 2px solid;
+   border-radius: 20px;
+   
+   
+}
+.follow_wp, .follow_tel,.contact{
+   text-align:center;
+   margin: auto;
+   
+}
+#wp ,#tel,#phone,#p2{
+   background: green;
+   color:white;
+   margin: 0px 40px 0px 40px;
+   border:2px solid;
+   border-radius: 20px;
+}
+
+

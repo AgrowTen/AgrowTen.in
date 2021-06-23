@@ -1,0 +1,118 @@
+body{
+   background-color: rgba(73, 22, 34, 0.2);
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+   
+}
+header{
+
+
+
+   background: black;
+   height: 60px;
+   border: 2px solid black;
+   border-radius: 12px;
+   margin: 5px 7px;
+   color: whitesmoke;
+   text-align: center;
+   font-family: 'Roboto Condensed', sans-serif;
+   padding: 30px 0px 0px 0px;
+   
+   
+   
+
+
+
+   
+   
+}
+*{margin: 0;
+padding: 0;
+
+   
+}
+
+.left{
+   background: darkred;
+   height:100px;
+   display: inline-block;
+   width: 40%;
+   border: 2px solid indianred;
+   border-radius: 12px;
+   margin: 50px 0px 0px 7px;
+   text-anchor: middle;
+   text-align: center;
+   padding: 50px 0px 0px 0px;
+   
+   color: white;
+   
+   
+   
+}
+.right{
+   direction: flex;
+   justify-items: right;
+   
+   background: darkorange;
+   height:100px;
+   display: inline-block;
+   width: 40%;
+   border: 2px solid red;
+   border-radius: 12px;
+   margin:50px 0px 0px 40px;
+   text-align: center;
+   padding: 20px top;
+   
+   color: white;
+   padding: 50px 0px 0px 0px;
+   
+   
+   
+}
+#h2{
+   background: green;
+   text-align: center;
+   border: 2px red;
+   border-radius: 40px;
+   margin-top: 4px;
+   
+}
+p{
+   
+background: green;
+text-align:center;
+border: 2px red;
+border-radius: 45px;
+
+margin-bottom: 8px;
+font-family:'Roboto Condensed', sans-serif;
+
+
+
+   
+}
+.foot{
+   background: green;
+   text-align: center;
+   border: 2px solid green;
+   border-radius: 90px;
+   height:20px;
+   color: white;
+   margin: 100px 0px 0px 0px;
+   font-size: 10px;
+   display: inline-block;
+   margin: 20%;
+   
+   
+   
+}
+.bot{background: green;
+border: solid;
+height: 5px;
+border-radius: 80%;
+
+
+   
+}
+
